@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/client/UdpClient.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/CommunicationClient.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/Client.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/UdpClient.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/CommunicationClient.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Passenger.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/UdpServer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Bfs.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/TaxiCenter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/TaxiCenter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Bfs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/GameFlow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/GameFlow.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/UdpServer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Server.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/CommunicationServer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Map.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Passenger.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Matrix.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/CommunicationServer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server/Matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Socket.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Trip.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Status.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/LuxuryCab.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/LuxuryCab.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/CarType.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/StandardCab.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Socket.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Block.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Point.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Cab.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Point.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Block.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Driver.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Driver.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Cab.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Trip.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/StandardCab.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/both/Color.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
